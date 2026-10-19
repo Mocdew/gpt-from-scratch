@@ -161,7 +161,3 @@ This project is designed to make the key ideas behind GPT concrete:
 ## Acknowledgements
 
 The implementation and Tiny Shakespeare exercise are inspired by Andrej Karpathy's educational *Neural Networks: Zero to Hero* material, especially the GPT-from-scratch walkthrough. The code in this repository is kept deliberately explicit so each part of the model can be read, changed, and understood.
-
-## License
-
-No license has been added yet. Unless a license is provided, all rights remain with the repository owner.
